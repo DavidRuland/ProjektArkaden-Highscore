@@ -1,0 +1,1091 @@
+c:\users\david\documents\visual studio 2010\Projects\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\david\documents\visual studio 2010\Projects\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+c:\users\david\documents\visual studio 2010\Projects\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+c:\users\david\documents\visual studio 2010\Projects\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+c:\users\david\documents\visual studio 2010\Projects\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\documents\visual studio 2010\Projects\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\spelare1.xnb
+C:\Users\David\documents\visual studio 2010\Projects\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Bakrebakgrund800.xnb
+C:\Users\David\documents\visual studio 2010\Projects\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Mittenbakgrunden600.xnb
+C:\Users\David\documents\visual studio 2010\Projects\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Mittenbakgrunden800.xnb
+C:\Users\David\documents\visual studio 2010\Projects\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Förstabakgrunden600.xnb
+C:\Users\David\documents\visual studio 2010\Projects\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Spline.dll
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+D:\Program Files (x86)\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Sprint 1  touch\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden - Wave\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden - Wave2\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Wave+bullet collision\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden-WaveManager+player1 &player2\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden-WaveManager+player1 &player2 (2)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkadenmybullet col\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\folder\ProjektArkaden - Copy 3\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden Score\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden Score-Test\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden (layer4+score)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOverScreen.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOverScreen.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOverScreen.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOverScreen.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOverScreen.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Dropbox\Projekt arkaden\ProjektArkaden (Golden version DeltaKex)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOverScreen.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOverScreen.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden RespawnProtection, Level screen\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOverScreen.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOverScreen.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden Respawnprot, fiendeformationer\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Exit.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScore.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Start.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Exit.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScore.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Start.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\backscreen.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOver.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\backscreen.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOver.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\BigTexFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Exit.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScore.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Start.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\backscreen.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOver.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\BigTexFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\RobotBoss.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Lazer.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\CreditsKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\ExitKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScoreKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\StartKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ExtraBigFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden Leveldesign\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ScoreFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\RobotBoss.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Lazer.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\CreditsKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\ExitKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScoreKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\StartKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ExtraBigFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ScoreFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Credits.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\RobotBoss.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Lazer.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\CreditsKnapp.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\ExitKnapp.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScoreKnapp.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\StartKnapp.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Credits.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\SpriteFont1.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\BigTexFont.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ExtraBigFont.xnb
+C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ScoreFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\PupSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\pUp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\BossSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Exit.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScore.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Start.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\backscreen.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOver.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\RobotBoss.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Lazer.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\CreditsKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\ExitKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScoreKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\StartKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Credits.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\PupSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\pUp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\BossSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\BigTexFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ExtraBigFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ScoreFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\MiniRockets.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\lifeUp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Exit.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScore.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Start.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\backscreen.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOver.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\RobotBoss.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Lazer.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\CreditsKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\ExitKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScoreKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\StartKnapp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Credits.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\PupSheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\pUp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\BossSpritesheet.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\MiniRockets.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\lifeUp.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\SpriteFont1.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\BigTexFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ExtraBigFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ScoreFont.xnb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\Spellabbet\Desktop\ProjektArkaden - Måns Copy (Boss)\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HealthBar.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Exit.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScore.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Start.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\backscreen.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOver.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\RobotBoss.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Lazer.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\CreditsKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\ExitKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScoreKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\StartKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Credits.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\PupSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\pUp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\BossSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\MiniRockets.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\lifeUp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HealthBar.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\SpriteFont1.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\BigTexFont.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ExtraBigFont.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ScoreFont.xnb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ProjektArkaden 1\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Exit.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScore.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Start.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\backscreen.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOver.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\RobotBoss.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Lazer.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\CreditsKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\ExitKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScoreKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\StartKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Credits.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\PupSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\pUp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\BossSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\MiniRockets.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\lifeUp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HealthBar.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\SpriteFont1.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\BigTexFont.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ExtraBigFont.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ScoreFont.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Exit.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScore.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Start.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\backscreen.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOver.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\RobotBoss.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Lazer.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\CreditsKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\ExitKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScoreKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\StartKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Credits.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\PupSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\pUp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\BossSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\MiniRockets.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\lifeUp.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HealthBar.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\SpriteFont1.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\BigTexFont.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ExtraBigFont.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ScoreFont.xnb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden 1_Highscore+writeName\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRocketSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\shot.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp2Spritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyRobotSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå2Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå3Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Bakre.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Främre.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Nivå4Mitten.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\hjarta.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Eshot.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Exit.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScore.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Start.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\backscreen.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\GameOver.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\RobotBoss.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Lazer.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\CreditsKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\ExitKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HighScoreKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\StartKnapp.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Credits.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\PupSheet.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\pUp.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\BossSpritesheet.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\MiniRockets.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\lifeUp.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\HealthBar.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\SpriteFont1.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\BigTexFont.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ExtraBigFont.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Fots\ScoreFont.xnb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\bin\x86\Debug\ProjektArkaden.pdb
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.exe
+C:\Users\David\Desktop\ProjektArkaden-Highscore\ProjektArkaden\ProjektArkaden\obj\x86\Debug\ProjektArkaden.pdb

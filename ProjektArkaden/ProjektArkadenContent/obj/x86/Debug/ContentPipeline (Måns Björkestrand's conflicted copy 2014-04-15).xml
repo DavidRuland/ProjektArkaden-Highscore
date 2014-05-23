@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Objects\Sp1Spritesheet.png</Source>
+      <Name>Images\Objects\Sp1Spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\Sp1Spritesheet.xnb</Output>
+      <Time>2014-04-10T12:57:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Objects\EnemyUavSpritesheet.png</Source>
+      <Name>Images\Objects\EnemyUavSpritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\EnemyUavSpritesheet.xnb</Output>
+      <Time>2014-04-11T10:01:43+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background_images\2Främrebakgrund1080.png</Source>
+      <Name>Images\Background_images\2Främrebakgrund1080</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\2Främrebakgrund1080.xnb</Output>
+      <Time>2014-04-11T13:47:43+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background_images\3Främrebakgrund1080.png</Source>
+      <Name>Images\Background_images\3Främrebakgrund1080</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\3Främrebakgrund1080.xnb</Output>
+      <Time>2014-04-11T13:47:43+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background_images\Bakrebakgrund1080.png</Source>
+      <Name>Images\Background_images\Bakrebakgrund1080</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Bakrebakgrund1080.xnb</Output>
+      <Time>2014-04-11T13:47:43+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background_images\Främrebakgrund1080.png</Source>
+      <Name>Images\Background_images\Främrebakgrund1080</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Främrebakgrund1080.xnb</Output>
+      <Time>2014-04-11T13:47:43+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background_images\Mittenbakgrund1080.png</Source>
+      <Name>Images\Background_images\Mittenbakgrund1080</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Background_images\Mittenbakgrund1080.xnb</Output>
+      <Time>2014-04-11T13:47:43+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Objects\bullet.png</Source>
+      <Name>Images\Objects\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\Images\Objects\bullet.xnb</Output>
+      <Time>2014-04-12T19:04:13+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkadenContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkadenContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Spellabbet\Dropbox\Projekt arkaden\ProjektArkaden - Copy\ProjektArkaden\ProjektArkaden\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-04T17:01:37.4748844+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
